@@ -1,0 +1,13 @@
+# Changes here will be overwritten by Copier; NEVER EDIT MANUALLY
+_commit: 0.6.0
+_src_path: gh:algorandfoundation/algokit-fullstack-template
+author_email: kerod53@gamil.com
+author_name: kerod
+contract_name: hello_world
+deployment_language: python
+ide_vscode: true
+preset_name: starter
+project_name: Certificate
+use_python_black: true
+use_python_pytest: true
+
