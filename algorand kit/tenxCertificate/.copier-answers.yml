@@ -1,0 +1,19 @@
+# Changes here will be overwritten by Copier; NEVER EDIT MANUALLY
+_commit: 0.6.0
+_src_path: gh:algorandfoundation/algokit-fullstack-template
+author_email: kerod@10academy.org
+author_name: Kerod
+cloud_provider: none
+contract_name: certificatation
+deployment_language: python
+ide_vscode: true
+preset_name: production
+project_name: tenxCertificate
+python_linter: none
+use_dispenser: true
+use_github_actions: true
+use_python_black: true
+use_python_mypy: true
+use_python_pip_audit: true
+use_python_pytest: true
+
